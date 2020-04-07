@@ -1,6 +1,6 @@
 # SI1Nb-BD1
 
-##EM DESENVOLVIMENTO
+*##EM DESENVOLVIMENTO*
 
 **Design e Desenvolvimento de Banco de Dados I - Historia do Banco de Dados**
 
@@ -13,3 +13,5 @@
 - Os Clientes realizam agendamentos de horario para realização dos serviços.
 
 - Cada um dos produtos são comprados de um fornecedor especifico.
+
+[![Salão](https://www.decorfacil.com/wp-content/uploads/2019/05/20190508salao-de-beleza-30.jpg "Salão")](https://www.decorfacil.com/wp-content/uploads/2019/05/20190508salao-de-beleza-30.jpg "Salão")
